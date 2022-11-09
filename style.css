@@ -1,0 +1,23 @@
+.site-header{
+    background-color: lightgreen;
+    margin: 0;
+    height: 100%;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    background-image: url('./IMG_1616.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.siteheadertext{
+    font-family: monospace;
+}
+body{
+    text-align: center;
+    margin: 0;
+    
+}
